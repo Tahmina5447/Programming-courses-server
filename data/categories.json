@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "category":"HTML",
+        "learningTime":"15 Day's",
+        "img":"https://image.shutterstock.com/image-photo/html-code-logo-5-front-260nw-2148944343.jpg"
+        
+    },
+    {
+        "id":"02",
+        "category":"CSS",
+        "learningTime":"20 Day's",
+        "img":"https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png"
+        
+        
+    },
+    {
+        "id":"03",
+        "category":"Bootstrap",
+        "learningTime":"7 Day's",
+        "img":"https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png"
+        
+    },
+    {
+        "id":"04",
+        "category":"Tailwind",
+        "learningTime":"5 Day's",
+        "img":"https://d33wubrfki0l68.cloudfront.net/4018cee97a4d96a719db578e3c9801e5d6311a7a/42b37/blog/images/tailwind.png"
+        
+    },
+    {
+        "id":"05",
+        "category":"JavaScript",
+        "learningTime":"30 Day's",
+        "img":"https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png"
+    
+    },
+    {
+        "id":"06",
+        "category":"React",
+        "learningTime":"15 Day's",
+        "img":"https://reactjs.org/logo-og.png"
+       
+    }
+]

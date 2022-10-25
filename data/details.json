@@ -1,0 +1,45 @@
+[
+    {
+        "id":"01",
+        "category":"HTML",
+        "learningTime":"15 Day's",
+        "img":"https://image.shutterstock.com/image-photo/html-code-logo-5-front-260nw-2148944343.jpg",
+        "description":"HTML is the standard markup language for Web pages.With HTML you can create your own Website.HTML is easy to learn - You will enjoy it!"
+    },
+    {
+        "id":"02",
+        "category":"CSS",
+        "learningTime":"20 Day's",
+        "img":"https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png",
+        "description":"Level up your web styling expertise with our easy to understand CSS fundamentals course. Each module is full of interactive demos & self-assessments to test your knowledge. Core Web Vitals. Website Visibility. Build Excellent Websites. Website Performance."
+        
+    },
+    {
+        "id":"03",
+        "category":"Bootstrap",
+        "learningTime":"7 Day's",
+        "img":"https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png",
+        "description":"Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites."
+    },
+    {
+        "id":"04",
+        "category":"Tailwind",
+        "learningTime":"5 Day's",
+        "img":"https://d33wubrfki0l68.cloudfront.net/4018cee97a4d96a719db578e3c9801e5d6311a7a/42b37/blog/images/tailwind.png",
+        "description":"Tailwind CSS is basically a Utility first CSS framework for building rapid custom UI. It is a highly customizable, low-level CSS framework that gives you all of the building blocks that you need. Also, it is a cool way to write inline styling and achieve an awesome interface without writing a single line of your own CSS."
+    },
+    {
+        "id":"05",
+        "category":"JavaScript",
+        "learningTime":"30 Day's",
+        "img":"https://p.kindpng.com/picc/s/171-1718046_javascript-programming-language-logo-hd-png-download.png",
+        "description":"JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
+    },
+    {
+        "id":"06",
+        "category":"React",
+        "learningTime":"15 Day's",
+        "img":"https://reactjs.org/logo-og.png",
+        "description":"We will build a small game during this tutorial. You might be tempted to skip it because you are not building games — but give it a chance. The techniques you’ll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React."
+    }
+]
