@@ -7,9 +7,9 @@ app.use(cors());
 const categories=require("./data/categories.json");
 const details=require("./data/details.json");
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+// app.get('/', (req, res) => {
+//   res.send('Hello World!')
+// })
 
 app.get('/categories', (req, res) => {
   res.send(categories)
