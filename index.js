@@ -7,11 +7,8 @@ app.use(cors());
 const categories=require("./data/categories.json");
 const details=require("./data/details.json");
 
-// app.get('/', (req, res) => {
-//   res.send('Hello World!')
-// })
 
-app.get('/categories', (req, res) => {
+app.get('/allCategories', (req, res) => {
   res.send(categories)
 })
 
@@ -19,6 +16,12 @@ app.get('/details/:id', (req, res) => {
     const id=req.params.id;
     const selectedCourse=details.find(detail=>detail.id===id);
     res.send(selectedCourse);
+  })
+
+  app.get('/categories', (req, res) => {
+    const category=details.slice(0, 3)
+    console.log(category)
+    res.send(category)
   })
 
 app.listen(port, () => {
